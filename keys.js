@@ -1,5 +1,5 @@
 
-// Exchange for your own keys 
+// Exchange for your own
 module.exports = {
     mixpanel_api_key: XXXXXXXXXXXX,
     mixpanel_token: XXXXXXXXXXXX,
